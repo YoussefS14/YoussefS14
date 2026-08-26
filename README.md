@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=50&lines=Senior+CS+Student+%40+Ain+Shams+University+(GPA+3.504);Systems+Programming+%26+OS+Kernel+Developer;Compiler+Design+%26+Interactive+Visualizers;AI%2C+NLP+%26+RAG+Pipeline+Architect;Full-Lifecycle+Software+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&height=50&lines=Senior+CS+Student+%40+Ain+Shams+University;Systems+Programming+%26+OS+Kernel+Developer;Compiler+Design+%26+Interactive+Visualizers;AI%2C+NLP+%26+RAG+Pipeline+Architect;Full-Lifecycle+Software+Engineer;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ## 📌 About Me
 
-- 🎓 **Senior Computer Science Student** (GPA: **3.504 / 4.0**) at the **Faculty of Computer and Information Science (FCIS)**, Ain Shams University, Cairo, Egypt.
+- 🎓 **Senior Computer Science Student at the Faculty of Computer and Information Science (FCIS)**, Ain Shams University, Cairo, Egypt.
 - ⚙️ **Systems & Low-Level Foundations**: Hands-on experience developing 32-bit x86 OS monolithic kernels (paging, schedulers, synchronization, syscalls) and LL(1) compiler front-ends.
 - 🤖 **Applied AI & ML**: Architected containerized NLP/RAG pipelines with vector databases (Qdrant), Groq Llama-3, and end-to-end scikit-learn diagnostic classifiers.
 - 💻 **Cross-Language Versatility**: Proficient in **C**, **C++**, **C#**, **Java**, **Python**, and **x86 Assembly** across **11+** comprehensive academic, systems, and enterprise projects.
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/x86_Assembly-grey?style=for-the-badge&logo=microchip&logoColor=white" alt="x86 Assembly" />
+  <img src="https://img.shields.io/badge/x64_Assembly-grey?style=for-the-badge&logo=microchip&logoColor=white" alt="x64 Assembly" />
 </p>
 
 ### 📚 Frameworks, Libraries & Graphics
@@ -246,19 +246,6 @@
   - Organized and coordinated logistics for participating students, recognized with a **Certificate of Appreciation** for dedication and leadership.
 - 🤝 **Supporter — Machine Learning Workshop '25** | *Student For Egypt & FCIS, Ain Shams University (2025)*
   - Assisted in workshop delivery and mentored attending students in applied machine learning, recognized with a **Certificate of Appreciation**.
-
----
-
-## 📊 GitHub Analytics & Profile Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefS14&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Youssef's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefS14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefS14&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
